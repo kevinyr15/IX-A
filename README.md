@@ -35,6 +35,8 @@
 
         .card-list .card-item {
             color: #fff;
+            min-height: 100vh;
+            max-height: 100vh;
             user-select: none;
             width: 400px;
             padding: 35px;
